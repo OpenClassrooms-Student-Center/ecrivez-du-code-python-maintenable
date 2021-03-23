@@ -134,6 +134,7 @@ travel_from_to_earth_to_ganymede = prepare_take_off_and_landing(
 )
 
 print()
-travel_from_to_earth_to_ganymede(
+travel_from_to_earth_to_ganymede()
+
 
 # et voila le travail !
