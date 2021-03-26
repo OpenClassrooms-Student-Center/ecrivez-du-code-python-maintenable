@@ -7,7 +7,7 @@
 
 # -------
 
-# def say_hello( name   =   "Jhon"   ):
+# def say_hello( name="Jhon"):
 #     print(  f"Bonjour {    name    } !"   )
 # say_hello(   "Martin"  )
 
@@ -15,8 +15,8 @@
 # puis installation de black
 
 
-def say_hello(name="Jhon"):
-    print(f"Bonjour {name} !")
+# def say_hello(name="Jhon"):
+#     print(f"Bonjour {name} !")
 
 
-say_hello("Martin")
+# say_hello("Martin")
